@@ -2,11 +2,10 @@
 # ======================================================================== #
 #
 #  Title      [PHP] FileUploader
-#  Author:    Innostudio.de
+#  Author:    Mhlanga M
 #  Website:   http://innostudio.de/fileuploader/
 #  Version:   1.0.0.4
-#  License:   http://innostudio.de/fileuploader/documentation/#license
-#  Date:      21-Apr-2017
+#  Date:      21-Feb-2023
 #  Purpose:   Validate, Remove and Upload files to server.
 #  Information: Don't forget to check the options file_uploads, upload_max_filesize, max_file_uploads and post_max_size in the php.ini
 #
